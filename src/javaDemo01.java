@@ -1,0 +1,2 @@
+public class javaDemo01 {
+}
